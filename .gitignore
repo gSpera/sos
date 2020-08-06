@@ -1,0 +1,9 @@
+bootcode.bin
+fixup.dat
+config.txt
+kernel.elf
+kernel.list
+kernel.map
+kernel7.img
+sos.uboot
+obj/*
